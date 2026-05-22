@@ -1,5 +1,5 @@
 ---
-title: ## My first GitHub Website! woohoo!
+title: My first GitHub Website! woohoo!
 
 
 ---
